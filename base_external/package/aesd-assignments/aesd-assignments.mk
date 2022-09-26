@@ -4,13 +4,13 @@
 # AESD-ASSIGNMENTS
 #
 ##############################################################
-AESD_ASSIGNMENTS_OVERRIDE_SRCDIR = ~/git/assignment-1-VamboozerCU
+#AESD_ASSIGNMENTS_OVERRIDE_SRCDIR = ~/git/assignment-1-VamboozerCU
 #AESD_ASSIGNMENTS_OVERRIDE_SRCDIR = $(@D)/finder-app
 
 #AESD_ASSIGNMENTS_BIN_ARCH_EXCLUDE = ~/git/assignment-1-VamboozerCU
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-AESD_ASSIGNMENTS_VERSION = 2354e9cef0b55c3980be5a68ca92f2b7ddc0ed4c
+AESD_ASSIGNMENTS_VERSION = e7bfaf6dcc145e6c1a2ddbf77a1ce8079b3252f5
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
