@@ -9,7 +9,7 @@
 #AESD_ASSIGNMENTS_BIN_ARCH_EXCLUDE = ~/git/assignment-1-VamboozerCU
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-AESD_ASSIGNMENTS_VERSION = e7bfaf6dcc145e6c1a2ddbf77a1ce8079b3252f5
+AESD_ASSIGNMENTS_VERSION = 3b13ca918243599ce24ed1b530349f83714f00ab
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
