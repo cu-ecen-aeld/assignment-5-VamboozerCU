@@ -4,7 +4,7 @@
 # AESD-ASSIGNMENTS
 #
 ##############################################################
-#AESD_ASSIGNMENTS_OVERRIDE_SRCDIR = ~/git/assignment-1-VamboozerCU
+# AESD_ASSIGNMENTS_OVERRIDE_SRCDIR = ~/git/assignment-1-VamboozerCU
 
 # Reference your assignment 3 git contents
 AESD_ASSIGNMENTS_VERSION = 863b7c9f0cf7134da156596018caab432ddc7356
